@@ -37,8 +37,7 @@
 
 ### 📫 Contact
 
-- 📧 [mohamedbouray@gmail.com](mailto:mohamedbouray@gmail.com)
-- 💬 [Telegram (optionnel)](https://t.me/ton_username)
+- 📧 [mohamedbouray@gmail.com](mailto:mohamed.bouray.06@gmail.com)
 - 🌐 Portfolio (à venir...)
 
 ---
