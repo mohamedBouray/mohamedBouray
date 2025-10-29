@@ -7,7 +7,7 @@
 
 # 👋 Salut ! Je suis Mohamed Bouray
 
-🎓 Étudiant en 1ère année de Génie Informatique à l’**EST Guelmim**  
+🎓 Étudiant en 2eme année de Génie Informatique à l’**EST Guelmim**  
 💻 Développeur **Frontend** passionné  
 🛠️ Je maîtrise **HTML**, **CSS** et **JavaScript**  
 🌱 Je m’intéresse au design, à l’accessibilité, et aux bonnes pratiques du web
