@@ -6,7 +6,7 @@
 
 🎓 Étudiant en 2eme année de Génie Informatique à l’**EST Guelmim**  
 💻 Développeur **Frontend** passionné  
-🛠️ Je maîtrise **HTML**, **CSS** et **JavaScript**  
+🛠️ Je maîtrise **HTML**, **CSS** et **JavaScript** , 
 🌱 Je m’intéresse au design, à l’accessibilité, et aux bonnes pratiques du web
 
 ---
@@ -34,7 +34,7 @@
 
 ### 📫 Contact
 
-- 📧 [mohamedbouray@gmail.com](mailto:mohamed.bouray.06@gmail.com)
+- 📧 [mohamed.bouray.06@gmail.com](mailto:mohamed.bouray.06@gmail.com)
 - 🌐 Portfolio (à venir...)
 
 ---
