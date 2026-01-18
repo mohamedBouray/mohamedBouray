@@ -1,60 +1,57 @@
-<div align="center" width="50">
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 </div>
 
 # 👋 Salut ! Je suis Mohamed Bouray
 
-🎓 Étudiant en 2eme année de Génie Informatique à l’**EST Guelmim**  
-💻 Développeur **Frontend** passionné  
-🛠️ Je maîtrise **HTML**, **CSS** et **JavaScript** , 
-🌱 Je m’intéresse au design, à l’accessibilité, et aux bonnes pratiques du web
+🎓 **Étudiant en Génie Informatique (Bac+2)** à l’**EST Guelmim**
+🚀 **Apprenti Développeur Full Stack** | Passionné par la création de solutions web.
+🌱 Actuellement en train de consolider mes bases en **Java** et d'explorer l'univers du développement **Full Stack**.
 
 ---
 
-### 🧰 Outils et technologies que j’utilise :
+### 📚 Parcours Académique & Apprentissage
 
+Dans le cadre de ma formation à l'ESTG, je me concentre sur la maîtrise des fondamentaux :
+* **Algorithmique & POO :** Apprentissage de la logique de programmation avec **Java / python**.
+* **Développement Web :** Création de sites avec **HTML/CSS** et dynamisation avec **PHP** et **JavaScript**.
+* **Gestion de Données :** Initiation à la conception de bases de données avec **SQL**.
+* **Environnement Tech :** Utilisation de **Linux** et gestion de version avec **Git**.
+
+---
+
+### 🧰 Mon Stack Technique (En cours d'acquisition)
+
+#### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Json](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
+
+#### ⚙️ Backend & Database
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### 🛠️ Outils & Méthodes
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![UML](https://img.shields.io/badge/UML-Concept-blue?style=flat)
 
 ---
 
-### 🔭 Actuellement...
-
-- 🚀 Je travaille sur des projets web frontend
-- 📚 J’apprends à structurer du code propre avec JavaScript avancé
-- 🐧 Je découvre l’univers **GNU/Linux**
-
----
-
-### 📫 Contact
-
-- 📧 [mohamed.bouray.06@gmail.com](mailto:mohamed.bouray.06@gmail.com)
-- 🌐 Portfolio (à venir...)
+### 🔭 Sur quoi je travaille ?
+- 🏗️ Création de petits projets pour pratiquer le **PHP** et le **JavaScript**.
+- 📖 Approfondissement de la **Programmation Orientée Objet (POO)**.
+- 🎓 Préparation de mon **Projet de Fin d'Études (PFE)**.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbouray&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbouray&layout=compact&theme=tokyonight" width="45%"/>
-</div>
-
----
-
-### ⚙️ Fun Code Block
+### ⚙️ Mon Profil en code
 
 ```javascript
-const mohamedBouray = {
-  status: "Étudiant EST Guelmim",
-  stack: ["HTML", "CSS", "JavaScript"],
-  learning: ["Web responsive", "Git & GitHub"],
-  passions: ["UI Design", "Open Source", "Développement Web"]
-};
-
+const student = {
+  nom: "Mohamed Bouray",
+  ecole: "EST Guelmim",
+  objectif: "Full Stack Developer",
+  technos_actuelles: ["Java", "PHP", "SQL", "JS"],
+  langues: ["Arabe", "Français", "Anglais (Basique)"]
